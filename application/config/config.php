@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // TODO: Sesuaikan dengan base url front-end yang digunakan
-$config['base_url'] = '34.101.110.56';
+$config['base_url'] = 'https://submission-mgce-rifkygaluh.et.r.appspot.com';
 
 /*
 |--------------------------------------------------------------------------
